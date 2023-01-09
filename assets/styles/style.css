@@ -170,6 +170,7 @@ header h2 {
   margin: 0 auto;
   line-height: calc(7px + 4.5vw);
   font-size: calc(1rem + 1vw);
+  font-family:'Seymour One', sans-serif;;
   letter-spacing: 1px;
 }
 .skills {
