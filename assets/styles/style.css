@@ -44,7 +44,7 @@ h2 {
   font-size: calc(3rem + 5vw);
   text-align: center;
   color: rgb(217, 217, 217);
-  font-family: Fluo Gums;
+  font-family:BlinkGaston_PERSONAL_USE_ONLY;
   letter-spacing: 3px;
 }
 .title {
@@ -128,9 +128,9 @@ header {
   transition-delay: 0.3s;
 }
 h1 {
-  font-size: calc(2rem + 8vw);
+  font-size: calc(2rem + 5vw);
   margin-top: 70px;
-  font-family: ArkaTypefaceDEMO;
+  font-family:Ed Wood Movies;
   letter-spacing: 6px;
   color: #fefeff;
 }
@@ -157,7 +157,7 @@ header h2 {
   margin: 400px 0 250px;
 }
 .img1 {
-  background: url(../img/bill-gates-1.jpg) top/cover;
+  background: url(../img/img.jpg) top/cover;
 }
 .h2-wrapper {
   mix-blend-mode: exclusion;
@@ -270,7 +270,4 @@ footer a {
   font-family: "font-bold", serif;
   color: #000101;
   font-size: calc(1rem + 2vw);
-}
-.img2 {
-  background: url(../img/bill-gates-2.jpg) center/cover;
 }
